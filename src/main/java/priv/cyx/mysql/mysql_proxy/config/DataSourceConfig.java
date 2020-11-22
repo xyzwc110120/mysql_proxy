@@ -30,7 +30,7 @@ public class DataSourceConfig {
         DruidDataSource master = new DruidDataSource();
         master.setUrl("jdbc:mysql://119.45.212.129:3306/mysql_demo?serverTimezone=UTC");
         master.setUsername("root");
-        master.setPassword("feixia92");
+        master.setPassword("xxxxxxxx");
         return master;
     }
 
